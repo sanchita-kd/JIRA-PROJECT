@@ -1,2 +1,2 @@
 # JIRA-PROJECT
-jira project create branch
+jira project create branch in jira
